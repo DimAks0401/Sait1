@@ -1,3 +1,4 @@
+/* html */
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,3 +38,16 @@
                   <li></li>    
 </body>
 </html>
+
+/* css */
+body {
+    font-family: Inter,  Inter; /* Семейство шрифтов */
+    font-size: 25px; /* Размер основного шрифта в <p></p>  */
+    background-color: #5988FF; /* Цвет фона веб-страницы */
+    color: #FFFFFF; /* Цвет основного текста */ 
+}
+h1 {
+    color: #D6FF6B; /* Цвет заголовка */
+    font-size: 35px; /* Размер шрифта в пунктах */
+    font-family: Georgia, serif; /* Семейство шрифтов */
+}
